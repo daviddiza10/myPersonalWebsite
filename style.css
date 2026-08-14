@@ -14,7 +14,7 @@ header {
 
 body {
   text-align: center;
-  background-image: url(Gg SE.jpg);
+  background-image: url("Gg SE.jpg");
   text-color: #ffffff00;
   padding: 20px;
   margin-left: auto;
