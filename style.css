@@ -1,3 +1,8 @@
+.portfolio {
+  width: 80%;
+  max-width: 500px;
+}
+
 header {
   text-align: center;
   background-color: #953afc91;
@@ -7,3 +12,4 @@ body {
   background-color: #c70aed63;
   text-color: #ffffff00;
 }
+
